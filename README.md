@@ -1,1 +1,5 @@
-# Mean_Reversion_Trading
+# Mean Reversion Trading
+
+Mean reversion actually is originated from regression toward the mean. We always tend to apply our intuition for devising a trading strategy and that is perfectly all right. Considering if markets have been on roller-coaster ride, moving up/down all the time, the first thing our intuition will guide us, that probably it will continue to move in the same direction. Fundamentally that leads to trend following strategies. On the other hand, there is mean reversion which comes from the argument that, poor performing stocks will perform well in the subsequent periods and vice versa.
+
+This is no secret that, investors always in a dilemma about when to open and close a position. Looking at the market trend and based on speculation, we can choose to open immediately or wait for further opportunities. Once opened, the next step is to find the best time to close. So, these optimal sequential timing follows a geometrical Brownian motion. We will explore this optimal timing of the series which has mean reverting dynamics.
